@@ -1,117 +1,144 @@
 <p align="center">
-  <img src="assets/logo.png" width="120"/>
+  <img src="assets/logo.png" width="110" />
 </p>
 
 <h1 align="center">Kryvalen</h1>
 
 <p align="center">
-  Structured Intelligence for Modern Systems
+  <strong>Structured Intelligence for Modern Systems</strong>
 </p>
 
 ---
 
-<p align="center">
-  <img src="assets/watermark.png" width="500" opacity="0.05"/>
-</p>
+<br>
 
----
+**Kryvalen designs systems that bring clarity to organizational complexity.**
 
-## ░ System Overview
+We do not build isolated features.  
+We design coordinated systems that restore coherence where fragmentation has taken hold.
 
-Kryvalen designs software systems that translate organizational complexity into structured, actionable intelligence.
+Most organizations do not fail because of a lack of tools.  
+They fail because of disconnected workflows, unclear boundaries, and invisible operational logic.
 
-We focus on how organizations *actually behave*:
-not as tools, but as interconnected systems of decisions, people, and processes.
-
----
-
-## ░ Foundational View
-
-<p align="center">
-  <img src="assets/pattern.svg" width="600"/>
-</p>
-
-Organizations are not collections of tools.
-
-They are **living systems of coordination**.
-
-When structure is unclear:
-- work fragments
-- decisions slow down
-- accountability dissolves
-- systems drift apart
+The result is not inefficiency.  
+It is **structural drift**.
 
 Kryvalen exists to counter that drift.
 
+<br>
+
 ---
 
-## ░ Philosophy
+## Philosophy
 
-We build from first principles.
+> *Understand deeply. Design deliberately. Build with purpose. Evolve responsibly.*
 
-Not features.
-Not trends.
-Not interfaces.
+We believe **system design determines organizational behavior.**
 
-Systems.
+We prioritize:
 
-We optimize for:
-
-- Structural clarity over feature density  
-- System coherence over isolated functionality  
-- Long-term maintainability over rapid iteration  
+- Clarity over complexity  
+- Coherence over isolated functionality  
+- Maintainability over rapid iteration  
 - Composability over rigidity  
 - Visibility over abstraction  
 
----
+We treat organizations as interacting systems of people, processes, decisions, and information flow.
 
-## ░ Core Systems
+Our goal is to make those systems observable and evolvable.
 
-### Vornet
-Organizational intelligence layer.
-
-Maps how work moves through an organization and reveals structural bottlenecks.
+<br>
 
 ---
 
-### AdminFlow
-Operational execution layer.
+## Products
 
-Formalizes administrative processes into structured, traceable workflows.
+Kryvalen products address structural problems within organizational systems.
 
----
+### Vornet · *Under development*
+Organizational intelligence and structural visibility.
 
-### Engage
-Communication layer.
+Tracks how work moves through systems and surfaces operational constraints.
 
-Ensures alignment between intention, information, and execution across teams.
-
----
-
-## ░ Architectural Principle
-
-> “If you cannot see the system, you cannot improve the system.”
-
-Kryvalen systems are designed to be observable, interpretable, and evolvable.
+> Understand what is happening, where it is, and what is preventing movement.
 
 ---
 
-## ░ State of Build
+### AdminFlow · *Coming soon*
+Workflow and administrative orchestration.
 
-Kryvalen is actively evolving.
-
-We are intentionally building in public:
-- to refine structure through feedback  
-- to document architectural decisions  
-- to align thinking with implementation  
-- to expose system design as it emerges  
+Transforms operational processes into structured, traceable systems.
 
 ---
 
-## ░ Closing Thought
+### Engage · *Future*
+Communication and alignment systems.
 
-Complexity is inevitable.
+Ensures consistency between intent, information, and execution.
 
-Fragmentation is not.
+<br>
 
-Kryvalen exists to bridge that gap.
+---
+
+## Design Principles
+
+We build systems that are:
+
+- Deliberate rather than reactive  
+- Clear rather than clever  
+- Structured for long-term evolution  
+- Documented as part of the system  
+- Consistent across components and domains  
+- Designed to minimize unnecessary complexity  
+- Evaluated by maintainability over time  
+
+<br>
+
+---
+
+## Approach
+
+We design from first principles.
+
+Every system begins with understanding before implementation.
+
+We introduce structure to manage complexity:
+
+- defining clear components  
+- making relationships explicit  
+- embedding reasoning into architecture  
+- reducing ambiguity at every layer  
+- treating documentation as system infrastructure  
+
+<br>
+
+---
+
+## Status
+
+Kryvalen is in its foundational stage.
+
+We are building in public to refine structure, document decisions, and align implementation with intent.
+
+This process reflects a core belief:
+
+> Strong systems are built, not assembled.
+
+<br>
+
+---
+
+## Closing Principle
+
+> Complexity is inevitable.  
+> Fragmentation is optional.
+
+Kryvalen exists to eliminate unnecessary fragmentation through structured design.
+
+<br>
+
+---
+
+<p align="center">
+  <sub>Kryvalen Technologies (Pty) Ltd — Built with intention. Evolved with structure.</sub>
+</p>
